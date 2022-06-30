@@ -45,7 +45,7 @@ public class MyTestActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-
+       //标记
 
         LinearLayout linearLayout=new LinearLayout(this);
         linearLayout.setGravity(Gravity.TOP);
