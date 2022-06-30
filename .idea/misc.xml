@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/IDEA/MyProject/Bluetooth2/MyTest/app/src/main/res/layout/array_adapter.xml" value="0.2390625" />
+        <entry key="..\:/IDEA/MyProject/MyTest/app/src/main/res/layout/activity_main.xml" value="0.18020833333333333" />
+        <entry key="..\:/IDEA/MyProject/MyTest/app/src/main/res/layout/activity_my_test.xml" value="0.1" />
+        <entry key="..\:/IDEA/MyProject/MyTest/app/src/main/res/layout/array_adapter.xml" value="0.1" />
+        <entry key="..\:/IdeaAndroidSdk/platforms/android-32/data/res/layout/activity_list_item.xml" value="0.10625" />
+        <entry key="..\:/IdeaAndroidSdk/platforms/android-32/data/res/layout/simple_expandable_list_item_1.xml" value="0.10625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
